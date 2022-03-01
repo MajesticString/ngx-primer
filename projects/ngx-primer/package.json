@@ -1,0 +1,15 @@
+{
+  "name": "ngx-primer",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^13.2.0",
+    "@angular/core": "^13.2.0",
+    "@primer/css": "^19.4.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.1"
+  },
+  "devDependencies": {
+    "@primer/css": "^19.4.0"
+  }
+}
